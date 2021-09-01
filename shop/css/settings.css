@@ -1011,10 +1011,6 @@ img.tp-slider-alternative-image	{
 	zoom:1;
 }
 
-.tp-caption img {  }
-
-
-
 .caption.slidelink a div,
 .tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url(../assets/coloredbg.png) repeat}
 .tp-caption.slidelink a span{	background:url(../assets/coloredbg.png) repeat}
@@ -1025,7 +1021,6 @@ img.tp-slider-alternative-image	{
 /*********************************************
 -	WOOCOMMERCE STYLES	-
 ***********************************************/
-
 .tp-caption .rs-starring				{	display: inline-block}
 
 

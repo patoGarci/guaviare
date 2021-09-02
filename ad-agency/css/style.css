@@ -335,7 +335,8 @@ i::before, i::after {
     visibility: hidden !important;
 }
 .map {
-    background: url("../img/map.jpg");
+    background: url("../img/ubicacion.PNG");
+    cursor: pointer;
 }
 
 .heading-para-setting {
